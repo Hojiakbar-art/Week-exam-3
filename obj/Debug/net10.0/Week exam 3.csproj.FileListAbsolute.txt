@@ -1,0 +1,15 @@
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\bin\Debug\net10.0\Week exam 3.exe
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\bin\Debug\net10.0\Week exam 3.deps.json
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\bin\Debug\net10.0\Week exam 3.runtimeconfig.json
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\bin\Debug\net10.0\Week exam 3.dll
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\bin\Debug\net10.0\Week exam 3.pdb
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\obj\Debug\net10.0\Week exam 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\obj\Debug\net10.0\Week exam 3.AssemblyInfoInputs.cache
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\obj\Debug\net10.0\Week exam 3.AssemblyInfo.cs
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\obj\Debug\net10.0\Week exam 3.csproj.CoreCompileInputs.cache
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\obj\Debug\net10.0\Week exam 3.sourcelink.json
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\obj\Debug\net10.0\Week exam 3.dll
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\obj\Debug\net10.0\refint\Week exam 3.dll
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\obj\Debug\net10.0\Week exam 3.pdb
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\obj\Debug\net10.0\Week exam 3.genruntimeconfig.cache
+C:\Users\Sharifov Hojiakbar\Desktop\Week exam 3\obj\Debug\net10.0\ref\Week exam 3.dll
